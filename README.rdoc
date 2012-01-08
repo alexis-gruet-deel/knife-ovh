@@ -6,7 +6,7 @@ This is an Opscode Knife plugin to interact with OVH pcc VMware vSphere. This pl
 
 = INSTALLATION:
 
-    gem install knife-vsphere
+    gem install knife-ovh
 
 = CONFIGURATION:
 
