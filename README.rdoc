@@ -1,5 +1,7 @@
 = Knife OVH Private Cloud Configuration management 
 
+= DEPRECATED - Please use this instead https://github.com/Estebita/knife-ovh-cloud
+
 = DESCRIPTION:
 
 This is an Opscode Knife plugin to interact with OVH pcc VMware vSphere. This plugin currently lists, clones, and deletes Virtual Machines ; run lists are supported with some limitations
