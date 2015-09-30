@@ -12,6 +12,7 @@ Gem::Specification.new do |s|
   s.email = "alexis.gruet@kroknet.com"
   s.files = Dir["lib/**/*"]
   s.rubygems_version = "1.6.2"
+  s.homepage = "https://github.com/MI-LA01/knife-ovh"
 
   s.add_dependency('netaddr', ["~> 1.5.0"])
   s.add_dependency('chef', ["~> 0.10.0"])
